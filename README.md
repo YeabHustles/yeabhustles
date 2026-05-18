@@ -2,12 +2,6 @@
 <!--                            YEAB HUSTLES  ·  GITHUB PROFILE                         -->
 <!-- ══════════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=80&section=header" />
-</div>
-
-<br/>
-
 <!-- ─────────────────────────  MAIN HEADER  ───────────────────────── -->
 
 <div align="center">
@@ -37,26 +31,36 @@
 <br/>
 <br/>
 
-<!-- ─────────────────────────  BIO LINE  ───────────────────────── -->
+<!-- ─────────────────────────  BIO HEADLINE  ───────────────────────── -->
 
 <div align="center">
 
-  <samp>
-    <b>A full-spectrum technologist and financial markets operator</b>
-    <br/><br/>
-    I architect software systems, craft compelling digital experiences,<br/>
-    drive high-impact marketing strategies, and deploy strategic intelligence<br/>
-    across global financial markets.
-  </samp>
+  <img src="https://readme-typing-svg.demolab.com?font=Bruno+Ace+SC&weight=700&size=32&letterSpacing=3px&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&multiline=true&width=1000&height=110&lines=A+FULL-SPECTRUM+TECHNOLOGIST;%26+FINANCIAL+MARKETS+OPERATOR" alt="A full-spectrum technologist and financial markets operator" />
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────  BIO BODY  ───────────────────────── -->
+
+<div align="center">
+
+  <table align="center">
+    <tr>
+      <td align="center">
+        <samp>
+          I <b><code>architect</code></b> software systems &nbsp;·&nbsp; <b><code>craft</code></b> compelling digital experiences<br/>
+          <b><code>drive</code></b> high-impact marketing strategies &nbsp;·&nbsp; <b><code>deploy</code></b> strategic intelligence<br/>
+          across <b><i>global financial markets</i></b>.
+        </samp>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 <br/>
 <br/>
-
-<!-- ─────────────────────────  STATUS PANEL  ───────────────────────── -->
-
-
 
 <!-- ─────────────────────────  DIVIDER  ───────────────────────── -->
 
