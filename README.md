@@ -60,6 +60,3 @@
 
 <!-- ─────────────────────────  DIVIDER  ───────────────────────── -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff87&height=1&section=footer" width="80%" />
-</div>
