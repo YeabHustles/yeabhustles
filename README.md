@@ -33,11 +33,7 @@
 
 <!-- ─────────────────────────  BIO HEADLINE  ───────────────────────── -->
 
-<div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Bruno+Ace+SC&weight=700&size=32&letterSpacing=3px&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&multiline=true&width=1000&height=110&lines=A+FULL-SPECTRUM+TECHNOLOGIST;%26+FINANCIAL+MARKETS+OPERATOR" alt="A full-spectrum technologist and financial markets operator" />
-
-</div>
 
 <br/>
 
